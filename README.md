@@ -321,7 +321,7 @@ rice-variety-classification/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rice-variety-classification.git
+git clone https://github.com/medhavi2003/rice-variety-classification.git
 ```
 
 ### Step 2: Navigate to the Project Directory
